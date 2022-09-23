@@ -1,0 +1,18 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  font-size: 3em;
+  background-color: #553c7b;
+  width: 1.5em;
+  height: 1.5em;
+  border-radius: 10px;
+  color: #ffffff;
+  border: 2px solid #000000;
+}
